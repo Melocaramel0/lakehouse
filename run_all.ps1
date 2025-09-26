@@ -39,3 +39,6 @@ Write-Host "✅ Pipeline completado. Revisa:"
 Write-Host " - data\processed\event_date=YYYY-MM-DD\part-0000.parquet"
 Write-Host " - data\prepared\by_user.parquet y by_category.parquet"
 Write-Host " - docs\metrics_summary.csv, docs\top_users.html y (si kaleido) docs\top_users.png"
+
+
+
