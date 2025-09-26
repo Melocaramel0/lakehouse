@@ -1,0 +1,10 @@
+# Core
+pyspark==3.5.1
+pandas==2.2.2
+pyarrow==16.1.0
+python-dateutil==2.9.0.post0
+
+# Optional (for charts/notebooks in the report)
+matplotlib==3.9.1
+jupyter==1.0.0
+ipykernel==6.29.5
